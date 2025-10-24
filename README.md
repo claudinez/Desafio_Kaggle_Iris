@@ -57,15 +57,13 @@ O objetivo é construir uma **análise exploratória** e **modelos preditivos** 
 - <img width="541" height="475" alt="image" src="https://github.com/user-attachments/assets/f6b70398-f2f2-45ee-b8f3-bf415a13f15b" />
 
 
-
-
 - **Boxplots:** comparativo de medidas de sépalas e pétalas  
-  ![Boxplots](link_para_screenshot_boxplots.png)  
+    
 
 - **Scatter Matrix:** dispersão de todas as medidas  
-  ![Scatter Matrix](link_para_screenshot_scatter.png)  
+  ![Uploading image.png…]()
 
-> Substitua os links acima pelos **links gerados no Google Colab** ou imagens exportadas.
+
 
 ---
 
