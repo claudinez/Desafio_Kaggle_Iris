@@ -54,7 +54,8 @@ O objetivo é construir uma **análise exploratória** e **modelos preditivos** 
 ## Visualizações Interativas
 
 - **Gráfico de Barras:** distribuição de espécies  
-  ![Barras]([link_para_screenshot_barras.png](https://github.com/claudinez/Desafio_Kaggle_Iris/blob/main/Desafio_Kaggle_Iris.ipynb])  
+[Barras](https://raw.githubusercontent.com/claudinez/Desafio_Kaggle_Iris/main/screenshot_barras.png)
+
 
 - **Boxplots:** comparativo de medidas de sépalas e pétalas  
   ![Boxplots](link_para_screenshot_boxplots.png)  
